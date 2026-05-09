@@ -208,7 +208,7 @@ python main.py --schedule --send
 
 ---
 
-## 📊 Sample Output
+## 📊 Output
 
 ### Terminal Output 
 
