@@ -210,43 +210,18 @@ python main.py --schedule --send
 
 ## 📊 Sample Output
 
-### Terminal Output (Dry Run)
+### Terminal Output 
 
-```
-=======================================================
-  📧  EMAIL AUTOMATION & REMINDER SYSTEM
-      Built with Python | Student Project
-=======================================================
-  Mode: 🧪 DRY RUN (safe mode)
-=======================================================
-
-✅ Loaded 8 contacts
-✅ Loaded 8 reminders
-🧪 [DRY RUN] Would send to: Arjun Sharma <arjun.sharma@example.com>
-   Subject: Team Standup Meeting - Action Required
-🧪 [DRY RUN] Would send to: Priya Menon <priya.menon@example.com>
-   Subject: Performance Review Submission Deadline
-...
-
-=======================================================
-       📊  EMAIL AUTOMATION — FINAL REPORT
-=======================================================
-  Total Processed  : 8
-  ✅ Sent          : 0
-  🧪 Dry-Run       : 8
-  ❌ Failed        : 0
-  📈 Success Rate  : 100.0%
-=======================================================
-  📄 Report saved to: outputs/email_report.csv
-=======================================================
-```
+![](outputs/terminal_output.png)
 
 ### Generated CSV Report (`outputs/email_report.csv`)
 
 | timestamp | reminder_id | contact_name | to_email | reminder_type | subject | status |
 |---|---|---|---|---|---|---|
-| 2024-12-20 09:00:00 | R001 | Arjun Sharma | arjun.sharma@example.com | meeting | Team Standup... | dry_run |
-| 2024-12-20 10:00:00 | R002 | Priya Menon | priya.menon@example.com | deadline | Performance Review... | dry_run |
+|2026-05-09| 21:17:50|R001|Seethaka Karthik|karthikseethaka455@gmail.com|meeting|Team Standup Meeting - Action Required,2024-12-20 09:00:00,sent,1|Email delivered successfully on attempt 1.
+|2026-05-09| 21:17:54|R002|Rakshitha|ssrkbkk@gmail.com|deadline,Performance| Review Submission Deadline,2024-12-20 10:00:00,sent,1|Email delivered successfully on attempt 1.
+|2026-05-09| 21:17:58|R003|Surendra|seethakasurendra@gmail.com|followup|Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,sent,1|Email delivered successfully on attempt 1.
+|2026-05-09| 21:18:02|R004|Ch S K Chaitanya|chaitukshc20751chaitanya755@gmail.com|task,Ops |Dashboard Report Due,2024-12-20 14:00:00,sent,1|Email delivered successfully on attempt 1.
 
 ---
 
