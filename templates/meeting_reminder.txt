@@ -1,0 +1,26 @@
+Subject: {subject}
+
+Dear {name},
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Meeting Details:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📅 Date    : {send_date}
+⏰ Time    : {send_time}
+👤 Role    : {role}
+🏢 Dept    : {department}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Please ensure you are prepared with your updates and any relevant documents.
+
+Action Required:
+✅ Confirm your attendance
+✅ Prepare your status update
+✅ Join the meeting on time
+
+If you have any conflicts, please notify your team lead immediately.
+
+Best Regards,
+Email Automation System
+Powered by Python | Automated Reminder Service

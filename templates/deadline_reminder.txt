@@ -1,0 +1,29 @@
+Subject: {subject}
+
+Dear {name},
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is approaching for you.
+
+Deadline Details:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 Task    : {subject}
+📅 Due By  : {send_date} at {send_time}
+👤 Name    : {name}
+🏢 Dept    : {department}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Please take immediate action to complete the required task before the deadline.
+
+Steps to Complete:
+1️⃣ Review the task requirements
+2️⃣ Prepare your submission
+3️⃣ Submit before the deadline
+4️⃣ Notify your manager upon completion
+
+Missing this deadline may affect team deliverables. Please prioritize accordingly.
+
+Best Regards,
+Email Automation System
+Powered by Python | Automated Reminder Service

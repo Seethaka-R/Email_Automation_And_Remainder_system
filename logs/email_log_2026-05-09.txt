@@ -1,0 +1,438 @@
+2026-05-09 07:09:26 | INFO     | root | 📋 Logger initialized. Log file: /home/claude/Email-Automation-Reminder-System/logs/email_log_2026-05-09.txt
+2026-05-09 07:09:26 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 07:09:26 | INFO     | src.contact_loader | ✅ Loaded 8 contacts from /home/claude/Email-Automation-Reminder-System/data/contacts.csv
+2026-05-09 07:09:26 | INFO     | src.contact_loader | ✅ 8 valid contacts ready for processing.
+2026-05-09 07:09:26 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from /home/claude/Email-Automation-Reminder-System/data/reminders.csv
+2026-05-09 07:09:26 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 07:09:26 | INFO     | src.report_generator | 📄 Report initialized: /home/claude/Email-Automation-Reminder-System/outputs/email_report.csv
+2026-05-09 07:09:26 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 07:09:26 | INFO     | __main__ | 📬 8 email jobs built. 0 skipped.
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Arjun Sharma <arjun.sharma@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Team Standup Meeting - Action Required
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Arjun Sharma,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Me...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Deepak Nair <deepak.nair@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: DevOps Sync - Sprint Planning
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Deepak Nair,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Mee...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Priya Menon <priya.menon@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Performance Review Submission Deadline
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Priya Menon,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Meera Joshi <meera.joshi@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Recruitment Drive Deadline
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Meera Joshi,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Rahul Gupta <rahul.gupta@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Follow-up: Q4 Sales Proposal
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Rahul Gupta,
+
+Hope this message finds you well!
+
+This is a gentle follow-up regarding a pending...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Sneha Iyer <sneha.iyer@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Ops Dashboard Report Due
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Sneha Iyer,
+
+This is an automated task reminder from your operations system.
+
+Task Details:
+━━━...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Kiran Patel <kiran.patel@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Invoice #INV-2024-089 Payment Due
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Kiran Patel,
+
+💰 PAYMENT REMINDER 💰
+
+This is an automated notification regarding a pending payme...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Anjali Singh <anjali.singh@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Webinar Registration Closing Soon
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Anjali Singh,
+
+🎯 WEBINAR REMINDER 🎯
+
+Don't miss out! Registration for the upcoming webinar is c...
+2026-05-09 07:09:26 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 20:37:41 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 20:37:41 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 20:37:41 | INFO     | src.contact_loader | ✅ Loaded 8 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 20:37:41 | INFO     | src.contact_loader | ✅ 8 valid contacts ready for processing.
+2026-05-09 20:37:41 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 20:37:41 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 20:37:41 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 20:37:41 | INFO     | __main__ | 📬 8 email jobs built. 0 skipped.
+2026-05-09 20:37:41 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Arjun Sharma <arjun.sharma@example.com>
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Subject: Team Standup Meeting - Action Required
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Body preview: Dear Arjun Sharma,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Me...
+2026-05-09 20:37:41 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Deepak Nair <deepak.nair@example.com>
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Subject: DevOps Sync - Sprint Planning
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Body preview: Dear Deepak Nair,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Mee...
+2026-05-09 20:37:41 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Priya Menon <priya.menon@example.com>
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Subject: Performance Review Submission Deadline
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Body preview: Dear Priya Menon,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 20:37:41 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Meera Joshi <meera.joshi@example.com>
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Subject: Recruitment Drive Deadline
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Body preview: Dear Meera Joshi,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 20:37:41 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Rahul Gupta <rahul.gupta@example.com>
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Subject: Follow-up: Q4 Sales Proposal
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Body preview: Dear Rahul Gupta,
+
+Hope this message finds you well!
+
+This is a gentle follow-up regarding a pending...
+2026-05-09 20:37:41 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Sneha Iyer <sneha.iyer@example.com>
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Subject: Ops Dashboard Report Due
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Body preview: Dear Sneha Iyer,
+
+This is an automated task reminder from your operations system.
+
+Task Details:
+━━━...
+2026-05-09 20:37:41 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Kiran Patel <kiran.patel@example.com>
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Subject: Invoice #INV-2024-089 Payment Due
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Body preview: Dear Kiran Patel,
+
+💰 PAYMENT REMINDER 💰
+
+This is an automated notification regarding a pending payme...
+2026-05-09 20:37:41 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Anjali Singh <anjali.singh@example.com>
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Subject: Webinar Registration Closing Soon
+2026-05-09 20:37:41 | INFO     | src.email_sender |    Body preview: Dear Anjali Singh,
+
+🎯 WEBINAR REMINDER 🎯
+
+Don't miss out! Registration for the upcoming webinar is c...
+2026-05-09 20:37:41 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 20:39:52 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 20:39:52 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 20:39:52 | INFO     | src.contact_loader | ✅ Loaded 8 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 20:39:52 | INFO     | src.contact_loader | ✅ 8 valid contacts ready for processing.
+2026-05-09 20:39:52 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 20:39:52 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 20:39:52 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 20:39:52 | INFO     | __main__ | 📬 8 email jobs built. 0 skipped.
+2026-05-09 20:39:52 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Seethaka Karthik <karthikseethaka455@gmail.com>
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Subject: Team Standup Meeting - Action Required
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Body preview: Dear Seethaka Karthik,
+
+This is a friendly reminder about your upcoming meeting scheduled for today....
+2026-05-09 20:39:52 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Deepak Nair <deepak.nair@example.com>
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Subject: DevOps Sync - Sprint Planning
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Body preview: Dear Deepak Nair,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Mee...
+2026-05-09 20:39:52 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Seethaka Rakshitha <ssrkbkk@gmail.com>
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Subject: Performance Review Submission Deadline
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Body preview: Dear Seethaka Rakshitha,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important dead...
+2026-05-09 20:39:52 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Meera Joshi <meera.joshi@example.com>
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Subject: Recruitment Drive Deadline
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Body preview: Dear Meera Joshi,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 20:39:52 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Rahul Gupta <rahul.gupta@example.com>
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Subject: Follow-up: Q4 Sales Proposal
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Body preview: Dear Rahul Gupta,
+
+Hope this message finds you well!
+
+This is a gentle follow-up regarding a pending...
+2026-05-09 20:39:52 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Sneha Iyer <sneha.iyer@example.com>
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Subject: Ops Dashboard Report Due
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Body preview: Dear Sneha Iyer,
+
+This is an automated task reminder from your operations system.
+
+Task Details:
+━━━...
+2026-05-09 20:39:52 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Kiran Patel <kiran.patel@example.com>
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Subject: Invoice #INV-2024-089 Payment Due
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Body preview: Dear Kiran Patel,
+
+💰 PAYMENT REMINDER 💰
+
+This is an automated notification regarding a pending payme...
+2026-05-09 20:39:52 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Anjali Singh <anjali.singh@example.com>
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Subject: Webinar Registration Closing Soon
+2026-05-09 20:39:52 | INFO     | src.email_sender |    Body preview: Dear Anjali Singh,
+
+🎯 WEBINAR REMINDER 🎯
+
+Don't miss out! Registration for the upcoming webinar is c...
+2026-05-09 20:39:52 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 20:43:22 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 20:43:22 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 20:43:22 | INFO     | src.contact_loader | ✅ Loaded 8 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 20:43:22 | INFO     | src.contact_loader | ✅ 8 valid contacts ready for processing.
+2026-05-09 20:43:23 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 20:43:23 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 20:43:23 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 20:43:23 | INFO     | __main__ | 📬 8 email jobs built. 0 skipped.
+2026-05-09 20:43:23 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Seethaka Karthik <karthikseethaka455@gmail.com>
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Subject: Team Standup Meeting - Action Required
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Body preview: Dear Seethaka Karthik,
+
+This is a friendly reminder about your upcoming meeting scheduled for today....
+2026-05-09 20:43:23 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Deepak Nair <deepak.nair@example.com>
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Subject: DevOps Sync - Sprint Planning
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Body preview: Dear Deepak Nair,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Mee...
+2026-05-09 20:43:23 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Seethaka Rakshitha <ssrkbkk@gmail.com>
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Subject: Performance Review Submission Deadline
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Body preview: Dear Seethaka Rakshitha,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important dead...
+2026-05-09 20:43:23 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Meera Joshi <meera.joshi@example.com>
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Subject: Recruitment Drive Deadline
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Body preview: Dear Meera Joshi,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 20:43:23 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Rahul Gupta <rahul.gupta@example.com>
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Subject: Follow-up: Q4 Sales Proposal
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Body preview: Dear Rahul Gupta,
+
+Hope this message finds you well!
+
+This is a gentle follow-up regarding a pending...
+2026-05-09 20:43:23 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Sneha Iyer <sneha.iyer@example.com>
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Subject: Ops Dashboard Report Due
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Body preview: Dear Sneha Iyer,
+
+This is an automated task reminder from your operations system.
+
+Task Details:
+━━━...
+2026-05-09 20:43:23 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Kiran Patel <kiran.patel@example.com>
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Subject: Invoice #INV-2024-089 Payment Due
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Body preview: Dear Kiran Patel,
+
+💰 PAYMENT REMINDER 💰
+
+This is an automated notification regarding a pending payme...
+2026-05-09 20:43:23 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Anjali Singh <anjali.singh@example.com>
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Subject: Webinar Registration Closing Soon
+2026-05-09 20:43:23 | INFO     | src.email_sender |    Body preview: Dear Anjali Singh,
+
+🎯 WEBINAR REMINDER 🎯
+
+Don't miss out! Registration for the upcoming webinar is c...
+2026-05-09 20:43:23 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 20:46:04 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 20:46:04 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 20:46:04 | INFO     | src.contact_loader | ✅ Loaded 8 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 20:46:04 | INFO     | src.contact_loader | ✅ 8 valid contacts ready for processing.
+2026-05-09 20:46:04 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 20:46:04 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 20:46:04 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 20:46:04 | INFO     | __main__ | 📬 8 email jobs built. 0 skipped.
+2026-05-09 20:46:04 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Seethaka Karthik <karthikseethaka455@gmail.com>
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Subject: Team Standup Meeting - Action Required
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Body preview: Dear Seethaka Karthik,
+
+This is a friendly reminder about your upcoming meeting scheduled for today....
+2026-05-09 20:46:04 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Deepak Nair <deepak.nair@example.com>
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Subject: DevOps Sync - Sprint Planning
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Body preview: Dear Deepak Nair,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Mee...
+2026-05-09 20:46:04 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Seethaka Rakshitha <ssrkbkk@gmail.com>
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Subject: Performance Review Submission Deadline
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Body preview: Dear Seethaka Rakshitha,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important dead...
+2026-05-09 20:46:04 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Meera Joshi <meera.joshi@example.com>
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Subject: Recruitment Drive Deadline
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Body preview: Dear Meera Joshi,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 20:46:04 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Rahul Gupta <rahul.gupta@example.com>
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Subject: Follow-up: Q4 Sales Proposal
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Body preview: Dear Rahul Gupta,
+
+Hope this message finds you well!
+
+This is a gentle follow-up regarding a pending...
+2026-05-09 20:46:04 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Sneha Iyer <sneha.iyer@example.com>
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Subject: Ops Dashboard Report Due
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Body preview: Dear Sneha Iyer,
+
+This is an automated task reminder from your operations system.
+
+Task Details:
+━━━...
+2026-05-09 20:46:04 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Kiran Patel <kiran.patel@example.com>
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Subject: Invoice #INV-2024-089 Payment Due
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Body preview: Dear Kiran Patel,
+
+💰 PAYMENT REMINDER 💰
+
+This is an automated notification regarding a pending payme...
+2026-05-09 20:46:04 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Anjali Singh <anjali.singh@example.com>
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Subject: Webinar Registration Closing Soon
+2026-05-09 20:46:04 | INFO     | src.email_sender |    Body preview: Dear Anjali Singh,
+
+🎯 WEBINAR REMINDER 🎯
+
+Don't miss out! Registration for the upcoming webinar is c...
+2026-05-09 20:46:04 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 20:49:47 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 20:49:47 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 20:49:47 | INFO     | src.contact_loader | ✅ Loaded 8 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 20:49:47 | INFO     | src.contact_loader | ✅ 8 valid contacts ready for processing.
+2026-05-09 20:49:47 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 20:49:47 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 20:49:47 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 20:49:47 | INFO     | __main__ | 📬 8 email jobs built. 0 skipped.
+2026-05-09 20:49:51 | INFO     | src.email_sender | ✅ Email sent to Seethaka Karthik <karthikseethaka455@gmail.com> (attempt 1)
+2026-05-09 20:49:55 | INFO     | src.email_sender | ✅ Email sent to Deepak Nair <deepak.nair@example.com> (attempt 1)
+2026-05-09 20:49:59 | INFO     | src.email_sender | ✅ Email sent to Seethaka Rakshitha <ssrkbkk@gmail.com> (attempt 1)
+2026-05-09 20:50:03 | INFO     | src.email_sender | ✅ Email sent to Meera Joshi <meera.joshi@example.com> (attempt 1)
+2026-05-09 20:50:07 | INFO     | src.email_sender | ✅ Email sent to Surendra <seethakasurendra@gmail.com> (attempt 1)
+2026-05-09 20:50:11 | INFO     | src.email_sender | ✅ Email sent to Sneha Iyer <sneha.iyer@example.com> (attempt 1)
+2026-05-09 20:50:15 | INFO     | src.email_sender | ✅ Email sent to Kiran Patel <kiran.patel@example.com> (attempt 1)
+2026-05-09 20:50:18 | INFO     | src.email_sender | ✅ Email sent to Anjali Singh <anjali.singh@example.com> (attempt 1)
+2026-05-09 20:50:18 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 20:56:05 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 20:56:05 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 20:56:05 | INFO     | src.contact_loader | ✅ Loaded 4 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 20:56:05 | INFO     | src.contact_loader | ✅ 4 valid contacts ready for processing.
+2026-05-09 20:56:05 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 20:56:05 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 20:56:05 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 20:56:05 | WARNING  | src.contact_loader | ⚠️  No contact found with ID: 7
+2026-05-09 20:56:05 | WARNING  | __main__ | ⚠️  Skipping reminder R007: contact not found.
+2026-05-09 20:56:05 | WARNING  | src.contact_loader | ⚠️  No contact found with ID: 8
+2026-05-09 20:56:05 | WARNING  | __main__ | ⚠️  Skipping reminder R008: contact not found.
+2026-05-09 20:56:05 | WARNING  | src.contact_loader | ⚠️  No contact found with ID: 5
+2026-05-09 20:56:05 | WARNING  | __main__ | ⚠️  Skipping reminder R005: contact not found.
+2026-05-09 20:56:05 | WARNING  | src.contact_loader | ⚠️  No contact found with ID: 6
+2026-05-09 20:56:05 | WARNING  | __main__ | ⚠️  Skipping reminder R006: contact not found.
+2026-05-09 20:56:05 | INFO     | __main__ | 📬 4 email jobs built. 4 skipped.
+2026-05-09 20:56:09 | INFO     | src.email_sender | ✅ Email sent to Seethaka Karthik <karthikseethaka455@gmail.com> (attempt 1)
+2026-05-09 20:56:13 | INFO     | src.email_sender | ✅ Email sent to Seethaka Rakshitha <ssrkbkk@gmail.com> (attempt 1)
+2026-05-09 20:56:17 | INFO     | src.email_sender | ✅ Email sent to Surendra <seethakasurendra@gmail.com> (attempt 1)
+2026-05-09 20:56:21 | INFO     | src.email_sender | ✅ Email sent to Ch S K Chaitanya <chskchaitanya755@gmail.com> (attempt 1)
+2026-05-09 20:56:21 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 21:03:35 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 21:03:35 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 21:03:35 | INFO     | src.contact_loader | ✅ Loaded 4 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 21:03:35 | INFO     | src.contact_loader | ✅ 4 valid contacts ready for processing.
+2026-05-09 21:03:35 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 21:03:35 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 21:03:35 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 21:03:35 | WARNING  | src.contact_loader | ⚠️  No contact found with ID: 7
+2026-05-09 21:03:35 | WARNING  | __main__ | ⚠️  Skipping reminder R007: contact not found.
+2026-05-09 21:03:35 | WARNING  | src.contact_loader | ⚠️  No contact found with ID: 8
+2026-05-09 21:03:35 | WARNING  | __main__ | ⚠️  Skipping reminder R008: contact not found.
+2026-05-09 21:03:35 | WARNING  | src.contact_loader | ⚠️  No contact found with ID: 5
+2026-05-09 21:03:35 | WARNING  | __main__ | ⚠️  Skipping reminder R005: contact not found.
+2026-05-09 21:03:35 | WARNING  | src.contact_loader | ⚠️  No contact found with ID: 6
+2026-05-09 21:03:35 | WARNING  | __main__ | ⚠️  Skipping reminder R006: contact not found.
+2026-05-09 21:03:35 | INFO     | __main__ | 📬 4 email jobs built. 4 skipped.
+2026-05-09 21:03:39 | INFO     | src.email_sender | ✅ Email sent to Seethaka Karthik <karthikseethaka455@gmail.com> (attempt 1)
+2026-05-09 21:03:43 | INFO     | src.email_sender | ✅ Email sent to Seethaka Rakshitha <ssrkbkk@gmail.com> (attempt 1)
+2026-05-09 21:03:47 | INFO     | src.email_sender | ✅ Email sent to Surendra <seethakasurendra@gmail.com> (attempt 1)
+2026-05-09 21:03:52 | INFO     | src.email_sender | ✅ Email sent to Ch S K Chaitanya <chskchaitanya755@gmail.com> (attempt 1)
+2026-05-09 21:03:52 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 21:05:58 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 21:05:58 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 21:05:58 | INFO     | src.contact_loader | ✅ Loaded 4 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 21:05:58 | INFO     | src.contact_loader | ✅ 4 valid contacts ready for processing.
+2026-05-09 21:05:58 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 21:05:58 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 21:09:04 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 21:09:04 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 21:09:04 | INFO     | src.contact_loader | ✅ Loaded 4 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 21:09:04 | INFO     | src.contact_loader | ✅ 4 valid contacts ready for processing.
+2026-05-09 21:09:04 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 21:09:04 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 21:09:53 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 21:09:53 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 21:09:53 | INFO     | src.contact_loader | ✅ Loaded 4 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 21:09:53 | INFO     | src.contact_loader | ✅ 4 valid contacts ready for processing.
+2026-05-09 21:09:53 | INFO     | src.reminder_loader | ✅ Loaded 5 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 21:09:53 | WARNING  | src.reminder_loader | ⚠️  1 reminders have invalid dates and will be skipped.
+2026-05-09 21:09:53 | INFO     | src.reminder_loader | ✅ 4 valid reminders loaded and sorted by schedule time.
+2026-05-09 21:09:53 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 21:09:53 | INFO     | __main__ | 📬 4 email jobs built. 0 skipped.
+2026-05-09 21:09:57 | INFO     | src.email_sender | ✅ Email sent to Seethaka Karthik <karthikseethaka455@gmail.com> (attempt 1)
+2026-05-09 21:14:28 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 21:14:28 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 21:14:28 | INFO     | src.contact_loader | ✅ Loaded 4 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 21:14:28 | INFO     | src.contact_loader | ✅ 4 valid contacts ready for processing.
+2026-05-09 21:14:28 | INFO     | src.reminder_loader | ✅ Loaded 5 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 21:14:28 | WARNING  | src.reminder_loader | ⚠️  1 reminders have invalid dates and will be skipped.
+2026-05-09 21:14:28 | INFO     | src.reminder_loader | ✅ 4 valid reminders loaded and sorted by schedule time.
+2026-05-09 21:14:28 | INFO     | src.report_generator | Report initialized: C:\Users\91953\Downloads\Email Automation & Reminder System\outputs\email_report.csv
+2026-05-09 21:14:28 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 21:14:28 | INFO     | __main__ | 📬 4 email jobs built. 0 skipped.
+2026-05-09 21:14:32 | INFO     | src.email_sender | ✅ Email sent to Seethaka Karthik <karthikseethaka455@gmail.com> (attempt 1)
+2026-05-09 21:14:32 | WARNING  | src.report_generator | Could not append to C:\Users\91953\Downloads\Email Automation & Reminder System\outputs\email_report.csv. It may be open in Excel. Continuing with C:\Users\91953\Downloads\Email Automation & Reminder System\outputs\email_report_20260509_211432.csv.
+2026-05-09 21:14:36 | INFO     | src.email_sender | ✅ Email sent to Seethaka Rakshitha <ssrkbkk@gmail.com> (attempt 1)
+2026-05-09 21:14:40 | INFO     | src.email_sender | ✅ Email sent to Surendra <seethakasurendra@gmail.com> (attempt 1)
+2026-05-09 21:14:43 | INFO     | src.email_sender | ✅ Email sent to Ch S K Chaitanya <chskchaitanya755@gmail.com> (attempt 1)
+2026-05-09 21:14:43 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
+2026-05-09 21:17:46 | INFO     | root | 📋 Logger initialized. Log file: C:\Users\91953\Downloads\Email Automation & Reminder System\logs\email_log_2026-05-09.txt
+2026-05-09 21:17:46 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 21:17:46 | INFO     | src.contact_loader | ✅ Loaded 4 contacts from C:\Users\91953\Downloads\Email Automation & Reminder System\data\contacts.csv
+2026-05-09 21:17:46 | INFO     | src.contact_loader | ✅ 4 valid contacts ready for processing.
+2026-05-09 21:17:46 | INFO     | src.reminder_loader | ✅ Loaded 5 reminders from C:\Users\91953\Downloads\Email Automation & Reminder System\data\reminders.csv
+2026-05-09 21:17:46 | WARNING  | src.reminder_loader | ⚠️  1 reminders have invalid dates and will be skipped.
+2026-05-09 21:17:46 | INFO     | src.reminder_loader | ✅ 4 valid reminders loaded and sorted by schedule time.
+2026-05-09 21:17:46 | INFO     | src.report_generator | Report initialized: C:\Users\91953\Downloads\Email Automation & Reminder System\outputs\email_report.csv
+2026-05-09 21:17:46 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 21:17:46 | INFO     | __main__ | 📬 4 email jobs built. 0 skipped.
+2026-05-09 21:17:50 | INFO     | src.email_sender | ✅ Email sent to Seethaka Karthik <karthikseethaka455@gmail.com> (attempt 1)
+2026-05-09 21:17:50 | WARNING  | src.report_generator | Could not append to C:\Users\91953\Downloads\Email Automation & Reminder System\outputs\email_report.csv. It may be open in Excel. Continuing with C:\Users\91953\Downloads\Email Automation & Reminder System\outputs\email_report_20260509_211750.csv.
+2026-05-09 21:17:54 | INFO     | src.email_sender | ✅ Email sent to Rakshitha <ssrkbkk@gmail.com> (attempt 1)
+2026-05-09 21:17:58 | INFO     | src.email_sender | ✅ Email sent to Surendra <seethakasurendra@gmail.com> (attempt 1)
+2026-05-09 21:18:02 | INFO     | src.email_sender | ✅ Email sent to Ch S K Chaitanya <chaitukshc20751chaitanya755@gmail.com> (attempt 1)
+2026-05-09 21:18:02 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.

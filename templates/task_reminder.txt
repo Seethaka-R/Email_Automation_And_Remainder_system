@@ -1,0 +1,27 @@
+Subject: {subject}
+
+Dear {name},
+
+This is an automated task reminder from your operations system.
+
+Task Details:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 Task    : {subject}
+📅 Due Date: {send_date}
+⏰ Due Time : {send_time}
+🏢 Dept    : {department}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Please ensure the task is completed on time to avoid any project delays.
+
+What You Need to Do:
+✅ Review the task description
+✅ Complete all required steps
+✅ Submit your output to the designated system
+✅ Inform your team upon completion
+
+If you face any blockers, please escalate immediately.
+
+Best Regards,
+Email Automation System
+Powered by Python | Automated Reminder Service

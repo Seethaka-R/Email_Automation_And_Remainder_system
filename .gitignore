@@ -1,0 +1,41 @@
+# ============================================================
+# .gitignore — Email Automation & Reminder System
+# IMPORTANT: These files contain sensitive info — NEVER push!
+# ============================================================
+
+# ── Environment & credentials ──────────────────────────────
+.env
+*.env
+
+# ── Python cache ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ───────────────────────────────────
+venv/
+env/
+.venv/
+ENV/
+
+# ── IDE files ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── OS files ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs (optional: push sample logs for proof-of-work) ───
+# logs/
+# Uncomment above to exclude all logs from GitHub
+
+# ── Output reports (optional: push sample report) ─────────
+# outputs/
+
+# ── Jupyter notebooks checkpoints ────────────────────────
+.ipynb_checkpoints/

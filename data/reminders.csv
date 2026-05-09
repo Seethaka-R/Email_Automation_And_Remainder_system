@@ -1,0 +1,6 @@
+reminder_id,contact_id,reminder_type,subject,send_date,send_time,priority,message_key
+R001,1,meeting,Team Standup Meeting - Action Required,2024-12-20,09:00,high,meeting_reminder
+R002,2,deadline,Performance Review Submission Deadline,2024-12-20,10:00,high,deadline_reminder
+R003,3,followup,Follow-up: Q4 Sales Proposal,2024-12-20,11:00,medium,followup_reminder
+R004,4,task,Ops Dashboard Report Due,2024-12-20,14:00,medium,task_reminder
+r

@@ -1,0 +1,30 @@
+Subject: {subject}
+
+Dear {name},
+
+🎯 WEBINAR REMINDER 🎯
+
+Don't miss out! Registration for the upcoming webinar is closing soon.
+
+Webinar Details:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 Event    : {subject}
+📅 Date     : {send_date}
+⏰ Time     : {send_time}
+👤 Invitee  : {name}
+🏢 Dept     : {department}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This webinar has been selected specifically for your role and professional development.
+
+Register Now & Learn:
+✅ Industry best practices
+✅ New tools and technologies
+✅ Q&A with expert speakers
+✅ Earn completion certificate
+
+Seats are limited — act now before registration closes!
+
+Best Regards,
+Email Automation System
+Powered by Python | Automated Reminder Service

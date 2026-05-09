@@ -1,0 +1,18 @@
+# ============================================================
+# requirements.txt — Email Automation & Reminder System
+# ============================================================
+
+# Core data handling
+pandas>=2.0.0
+
+# Email scheduling
+schedule>=1.2.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Optional: Streamlit dashboard (uncomment to use)
+# streamlit>=1.28.0
+
+# Standard library modules used (no install needed):
+# smtplib, email.message, csv, logging, datetime, os, argparse

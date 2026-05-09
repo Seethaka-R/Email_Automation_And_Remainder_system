@@ -1,0 +1,29 @@
+Subject: {subject}
+
+Dear {name},
+
+💰 PAYMENT REMINDER 💰
+
+This is an automated notification regarding a pending payment.
+
+Payment Details:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📄 Invoice  : {subject}
+📅 Due Date : {send_date}
+⏰ Due Time  : {send_time}
+👤 Contact  : {name}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Please process the payment before the due date to avoid any late fees or service interruptions.
+
+Payment Steps:
+1️⃣ Log into your payment portal
+2️⃣ Locate the invoice number mentioned above
+3️⃣ Process the payment using your preferred method
+4️⃣ Save the payment confirmation for your records
+
+For queries or disputes, contact the finance team immediately.
+
+Best Regards,
+Email Automation System
+Powered by Python | Automated Reminder Service

@@ -1,0 +1,5 @@
+timestamp,reminder_id,contact_name,to_email,reminder_type,subject,send_datetime,status,attempts,message
+2026-05-09 21:17:50,R001,Seethaka Karthik,karthikseethaka455@gmail.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 21:17:54,R002,Rakshitha,ssrkbkk@gmail.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 21:17:58,R003,Surendra,seethakasurendra@gmail.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 21:18:02,R004,Ch S K Chaitanya,chaitukshc20751chaitanya755@gmail.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,sent,1,Email delivered successfully on attempt 1.

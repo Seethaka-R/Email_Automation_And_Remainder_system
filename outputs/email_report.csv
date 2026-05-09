@@ -1,0 +1,57 @@
+timestamp,reminder_id,contact_name,to_email,reminder_type,subject,send_datetime,status,attempts,message
+2026-05-09 07:09:26,R001,Arjun Sharma,arjun.sharma@example.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 07:09:26,R007,Deepak Nair,deepak.nair@example.com,meeting,DevOps Sync - Sprint Planning,2024-12-20 09:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 07:09:26,R002,Priya Menon,priya.menon@example.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 07:09:26,R008,Meera Joshi,meera.joshi@example.com,deadline,Recruitment Drive Deadline,2024-12-20 10:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 07:09:26,R003,Rahul Gupta,rahul.gupta@example.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 07:09:26,R004,Sneha Iyer,sneha.iyer@example.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 07:09:26,R005,Kiran Patel,kiran.patel@example.com,payment,Invoice #INV-2024-089 Payment Due,2024-12-20 15:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 07:09:26,R006,Anjali Singh,anjali.singh@example.com,webinar,Webinar Registration Closing Soon,2024-12-20 16:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:37:41,R001,Arjun Sharma,arjun.sharma@example.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:37:41,R007,Deepak Nair,deepak.nair@example.com,meeting,DevOps Sync - Sprint Planning,2024-12-20 09:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:37:41,R002,Priya Menon,priya.menon@example.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:37:41,R008,Meera Joshi,meera.joshi@example.com,deadline,Recruitment Drive Deadline,2024-12-20 10:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:37:41,R003,Rahul Gupta,rahul.gupta@example.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:37:41,R004,Sneha Iyer,sneha.iyer@example.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:37:41,R005,Kiran Patel,kiran.patel@example.com,payment,Invoice #INV-2024-089 Payment Due,2024-12-20 15:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:37:41,R006,Anjali Singh,anjali.singh@example.com,webinar,Webinar Registration Closing Soon,2024-12-20 16:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:39:52,R001,Seethaka Karthik,karthikseethaka455@gmail.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:39:52,R007,Deepak Nair,deepak.nair@example.com,meeting,DevOps Sync - Sprint Planning,2024-12-20 09:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:39:52,R002,Seethaka Rakshitha,ssrkbkk@gmail.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:39:52,R008,Meera Joshi,meera.joshi@example.com,deadline,Recruitment Drive Deadline,2024-12-20 10:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:39:52,R003,Rahul Gupta,rahul.gupta@example.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:39:52,R004,Sneha Iyer,sneha.iyer@example.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:39:52,R005,Kiran Patel,kiran.patel@example.com,payment,Invoice #INV-2024-089 Payment Due,2024-12-20 15:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:39:52,R006,Anjali Singh,anjali.singh@example.com,webinar,Webinar Registration Closing Soon,2024-12-20 16:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:43:23,R001,Seethaka Karthik,karthikseethaka455@gmail.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:43:23,R007,Deepak Nair,deepak.nair@example.com,meeting,DevOps Sync - Sprint Planning,2024-12-20 09:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:43:23,R002,Seethaka Rakshitha,ssrkbkk@gmail.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:43:23,R008,Meera Joshi,meera.joshi@example.com,deadline,Recruitment Drive Deadline,2024-12-20 10:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:43:23,R003,Rahul Gupta,rahul.gupta@example.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:43:23,R004,Sneha Iyer,sneha.iyer@example.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:43:23,R005,Kiran Patel,kiran.patel@example.com,payment,Invoice #INV-2024-089 Payment Due,2024-12-20 15:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:43:23,R006,Anjali Singh,anjali.singh@example.com,webinar,Webinar Registration Closing Soon,2024-12-20 16:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:46:04,R001,Seethaka Karthik,karthikseethaka455@gmail.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:46:04,R007,Deepak Nair,deepak.nair@example.com,meeting,DevOps Sync - Sprint Planning,2024-12-20 09:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:46:04,R002,Seethaka Rakshitha,ssrkbkk@gmail.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:46:04,R008,Meera Joshi,meera.joshi@example.com,deadline,Recruitment Drive Deadline,2024-12-20 10:30:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:46:04,R003,Rahul Gupta,rahul.gupta@example.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:46:04,R004,Sneha Iyer,sneha.iyer@example.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:46:04,R005,Kiran Patel,kiran.patel@example.com,payment,Invoice #INV-2024-089 Payment Due,2024-12-20 15:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:46:04,R006,Anjali Singh,anjali.singh@example.com,webinar,Webinar Registration Closing Soon,2024-12-20 16:00:00,dry_run,0,Email simulated in dry-run mode. Not actually sent.
+2026-05-09 20:49:51,R001,Seethaka Karthik,karthikseethaka455@gmail.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:49:55,R007,Deepak Nair,deepak.nair@example.com,meeting,DevOps Sync - Sprint Planning,2024-12-20 09:30:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:49:59,R002,Seethaka Rakshitha,ssrkbkk@gmail.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:50:03,R008,Meera Joshi,meera.joshi@example.com,deadline,Recruitment Drive Deadline,2024-12-20 10:30:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:50:07,R003,Surendra,seethakasurendra@gmail.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:50:11,R004,Sneha Iyer,sneha.iyer@example.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:50:15,R005,Kiran Patel,kiran.patel@example.com,payment,Invoice #INV-2024-089 Payment Due,2024-12-20 15:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:50:18,R006,Anjali Singh,anjali.singh@example.com,webinar,Webinar Registration Closing Soon,2024-12-20 16:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:56:09,R001,Seethaka Karthik,karthikseethaka455@gmail.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:56:13,R002,Seethaka Rakshitha,ssrkbkk@gmail.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:56:17,R003,Surendra,seethakasurendra@gmail.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 20:56:21,R004,Ch S K Chaitanya,chskchaitanya755@gmail.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 21:03:39,R001,Seethaka Karthik,karthikseethaka455@gmail.com,meeting,Team Standup Meeting - Action Required,2024-12-20 09:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 21:03:43,R002,Seethaka Rakshitha,ssrkbkk@gmail.com,deadline,Performance Review Submission Deadline,2024-12-20 10:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 21:03:47,R003,Surendra,seethakasurendra@gmail.com,followup,Follow-up: Q4 Sales Proposal,2024-12-20 11:00:00,sent,1,Email delivered successfully on attempt 1.
+2026-05-09 21:03:52,R004,Ch S K Chaitanya,chskchaitanya755@gmail.com,task,Ops Dashboard Report Due,2024-12-20 14:00:00,sent,1,Email delivered successfully on attempt 1.

@@ -1,0 +1,27 @@
+Subject: {subject}
+
+Dear {name},
+
+Hope this message finds you well!
+
+This is a gentle follow-up regarding a pending action item assigned to you.
+
+Follow-Up Details:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 Topic   : {subject}
+📅 Date    : {send_date}
+👤 Person  : {name}
+💼 Role    : {role}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+We noticed that the following item may need your attention:
+
+→ Please review your pending tasks
+→ Respond to any outstanding emails or requests
+→ Update the team on your current progress
+
+Your timely response helps keep projects on track. Please reach out if you need any support.
+
+Best Regards,
+Email Automation System
+Powered by Python | Automated Reminder Service

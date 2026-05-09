@@ -1,0 +1,67 @@
+2026-05-09 07:09:26 | INFO     | root | 📋 Logger initialized. Log file: /home/claude/Email-Automation-Reminder-System/logs/email_log_2026-05-09.txt
+2026-05-09 07:09:26 | INFO     | root | 📂 Loading contacts and reminders...
+2026-05-09 07:09:26 | INFO     | src.contact_loader | ✅ Loaded 8 contacts from /home/claude/Email-Automation-Reminder-System/data/contacts.csv
+2026-05-09 07:09:26 | INFO     | src.contact_loader | ✅ 8 valid contacts ready for processing.
+2026-05-09 07:09:26 | INFO     | src.reminder_loader | ✅ Loaded 8 reminders from /home/claude/Email-Automation-Reminder-System/data/reminders.csv
+2026-05-09 07:09:26 | INFO     | src.reminder_loader | ✅ 8 valid reminders loaded and sorted by schedule time.
+2026-05-09 07:09:26 | INFO     | src.report_generator | 📄 Report initialized: /home/claude/Email-Automation-Reminder-System/outputs/email_report.csv
+2026-05-09 07:09:26 | INFO     | root | 📨 Running in batch mode: processing all reminders now...
+2026-05-09 07:09:26 | INFO     | __main__ | 📬 8 email jobs built. 0 skipped.
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Arjun Sharma <arjun.sharma@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Team Standup Meeting - Action Required
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Arjun Sharma,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Me...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Deepak Nair <deepak.nair@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: DevOps Sync - Sprint Planning
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Deepak Nair,
+
+This is a friendly reminder about your upcoming meeting scheduled for today.
+
+Mee...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Priya Menon <priya.menon@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Performance Review Submission Deadline
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Priya Menon,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Meera Joshi <meera.joshi@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Recruitment Drive Deadline
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Meera Joshi,
+
+⚠️ DEADLINE ALERT ⚠️
+
+This is an automated reminder that an important deadline is...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Rahul Gupta <rahul.gupta@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Follow-up: Q4 Sales Proposal
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Rahul Gupta,
+
+Hope this message finds you well!
+
+This is a gentle follow-up regarding a pending...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Sneha Iyer <sneha.iyer@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Ops Dashboard Report Due
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Sneha Iyer,
+
+This is an automated task reminder from your operations system.
+
+Task Details:
+━━━...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Kiran Patel <kiran.patel@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Invoice #INV-2024-089 Payment Due
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Kiran Patel,
+
+💰 PAYMENT REMINDER 💰
+
+This is an automated notification regarding a pending payme...
+2026-05-09 07:09:26 | INFO     | src.email_sender | 🧪 [DRY RUN] Would send to: Anjali Singh <anjali.singh@example.com>
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Subject: Webinar Registration Closing Soon
+2026-05-09 07:09:26 | INFO     | src.email_sender |    Body preview: Dear Anjali Singh,
+
+🎯 WEBINAR REMINDER 🎯
+
+Don't miss out! Registration for the upcoming webinar is c...
+2026-05-09 07:09:26 | INFO     | root | ✅ All done. Check outputs/email_report.csv for the full report.
